@@ -26,10 +26,11 @@ li{
   font-size: 20px;
 }
 
-.pagecontainer{
+.pageContainer{
   background-color: gray;
-  padding: 25px;
-  margin: 25px;
+  padding: 20px;
+  margin: 20px;
+  width: 940px;
 }
 
 
