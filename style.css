@@ -21,7 +21,7 @@ h2{
   font-size: 36px;
   }
 
-li{
+ol,ul,li{
   text-align: center;
   font-size: 20px;
 }
