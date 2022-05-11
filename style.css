@@ -10,6 +10,7 @@ p{
   color: black;
   font-family: sans-serif;
   font-size: 20px;
+  text-algin: center;
   }
   
 h1{  
@@ -19,6 +20,12 @@ h1{
 h2{
   font-size: 36px;
   }
+
+li{
+  text-align: center;
+  font-size: 20px;
+}
+
 
 background-color: gray;
 
