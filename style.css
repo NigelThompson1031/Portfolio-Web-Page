@@ -10,7 +10,6 @@ p{
   color: black;
   font-family: sans-serif;
   font-size: 20px;
-  text-algin: center;
   }
   
 h1{  
@@ -30,7 +29,7 @@ ol,ul,li{
   background-color: gray;
   padding: 20px;
   margin: 20px;
-  width: 940px;
+  width: 500px;
 }
 
 
