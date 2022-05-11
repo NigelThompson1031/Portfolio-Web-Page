@@ -20,5 +20,17 @@ h2{
   font-size: 36px;
   }
 
+header{
+  background-color: darkgray;
+}
+
+main{
+  background-color: gray;
+}
+
+footer{
+  background-color: lightgray;
+}
+
 
 
